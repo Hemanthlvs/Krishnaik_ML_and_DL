@@ -57,3 +57,52 @@ TF-IDF measures the importance of words in documents but does not capture semant
 
 ## Conclusion
 Word2Vec is a powerful tool in NLP that helps in understanding and processing text data by converting words into meaningful vectors. Its ability to capture context and relationships makes it a preferred choice for many NLP applications.
+
+
+# Understanding of average word 2 vec in NLP 
+## What is Avg Word2Vec?
+Avg Word2Vec is a technique in Natural Language Processing (NLP) that represents words as vectors (numbers) in a continuous space. It averages the vectors of words in a sentence or document to create a single vector that captures the overall meaning.
+
+## Basic Example:
+- **Sentence:** "The cat sits on the mat."
+- **Word Vectors:** 
+  - "The" → [0.1, 0.2, 0.3]  
+  - "cat" → [0.4, 0.5, 0.6]  
+  - "sits" → [0.7, 0.8, 0.9]  
+  - "on" → [0.1, 0.2, 0.3]  
+  - "the" → [0.1, 0.2, 0.3]  
+  - "mat" → [0.4, 0.5, 0.6]  
+
+- **Avg Vector:**
+- Average all vectors → [0.3, 0.4, 0.5]
+## Examples
+### Sentiment Analysis: 
+Understanding if a sentence is positive or negative.
+### Document Classification: 
+Grouping similar documents together.
+### Recommendation Systems: 
+Suggesting content based on user preferences.
+
+## Why/Where is it Useful?
+### Semantic Understanding: 
+Helps in capturing the meaning of words in context.
+### Dimensionality Reduction: 
+Reduces the complexity of text data for easier processing.
+## Advantages
+### Simplicity: 
+Easy to implement and understand.
+###vExample: 
+Quickly average word vectors for a basic sentiment analysis.
+### Efficiency: 
+Requires less computational power compared to more complex models.
+## Disadvantages
+### Loss of Information: 
+Averages can dilute important nuances.
+### Example: 
+"Not good" vs. "Good" may be treated similarly.
+### Context Ignorance: 
+Ignores word order and context.
+### Example: 
+"He is a good man" vs. "He is a man good" may lose meaning.
+## Conclusion:
+Avg Word2Vec is a valuable tool in NLP for simplifying text data and capturing meaning, but it has limitations in handling context and nuances.
