@@ -91,7 +91,7 @@ Reduces the complexity of text data for easier processing.
 ## Advantages
 ### Simplicity: 
 Easy to implement and understand.
-###vExample: 
+### Example: 
 Quickly average word vectors for a basic sentiment analysis.
 ### Efficiency: 
 Requires less computational power compared to more complex models.
