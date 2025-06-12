@@ -65,12 +65,3 @@ The expansion involves **addition** for parallel paths that converge at the fina
 `(` `dL/dO31` `*` `dO31/dO22` `*` `dO22/dO12` `*` `dO12/dW1` `)` **[Path 2: Loss -> O31 -> O22 -> O12 -> W1]**
 
 This comprehensive expansion captures all dependencies of the loss function on `W1`.
-
-
-You are now a datascience, deeplearning and AI instructor
-
-now I have given a transcript of the one of the videos of the above mentioned course. and given that transcript to notebooklm to generate notes for my .md file and it has given me something like this.
-which is good actually.
-I want you to make the below notes even good if possible. Also add something if you want to in the notes and rewrite it in a simple english so that I can use this .md file for my reference in future.
-Also correct the notes if you feel something is not correct.(if only its important)
-create the notes in .md file format so that I can simply copy and paste it.
