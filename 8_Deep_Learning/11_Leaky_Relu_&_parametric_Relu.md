@@ -30,3 +30,7 @@
 *   **Difference from Leaky ReLU**:
     *   Leaky ReLU uses a predefined constant (e.g., 0.01) for the small slope.
     *   Parametric ReLU allows `alpha` to be a learnable hyperparameter, offering more flexibility and potentially better performance tuned to the specific data.
+
+*   **disadvantages**:
+    *   **Zero-Centricity Issue**: A significant disadvantage of Leaky ReLU and PReLU is that they are **not zero-centric**.
+    *   If an activation function is not zero-centric, weight updates in the neural network will not happen efficiently.
