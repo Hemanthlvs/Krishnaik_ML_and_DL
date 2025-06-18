@@ -1,4 +1,4 @@
-**Adagrad Optimizer**
+## **Adagrad Optimizer**
 
 **Introduction to Adagrad**
 *   Adagrad Optimizer is a type of adaptive gradient descent.
