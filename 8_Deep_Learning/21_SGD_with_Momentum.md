@@ -1,4 +1,4 @@
-## SGD with Momentum and Exponential Weighted Average Notes
+## SGD with Momentum and Exponential Weighted Average
 
 ### SGD with Momentum: The Solution
 *   The goal is to "smoothen" this noise using SGD with Momentum.
