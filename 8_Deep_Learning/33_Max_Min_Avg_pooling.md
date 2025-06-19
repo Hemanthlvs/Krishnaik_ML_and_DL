@@ -1,4 +1,4 @@
-# CNN: Pooling Layers and Location Invariance Notes
+# CNN: Pooling Layers and Location Invariance
 
 ### A. Max Pooling
 *   **Definition**: Max pooling is applied on the output of a convolution layer (after the ReLU operation).
