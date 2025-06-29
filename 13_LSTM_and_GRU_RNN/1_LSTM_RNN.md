@@ -91,3 +91,87 @@ Several notations and operations are used within the LSTM architecture diagrams:
 ## Conclusion
 *   The forget gate intelligently decides **which information to "let go" or "not let go"** from the memory cell based on the current input context.
 *   This operation allows the LSTM to **selectively remove or retain information** over long sequences, preventing vanishing or exploding gradients and managing long-term dependencies effectively.
+
+# LSTM: Input Gate and Candidate Memory
+
+## Input Gate (I_t)
+
+*   **Purpose**: The Input Gate is responsible for deciding **which new information should be added** to the memory cell, based on the current context.
+*   **Calculation (I_t)**:
+    *   It **combines the current input (`x_t`) and the previous hidden state (`h_t-1`)**. This is done by concatenating them.
+    *   This combined input is then passed through a neural network layer.
+    *   It is multiplied by specific weights, denoted as `w_I`.
+    *   A bias (`B_I`) is added.
+    *   Finally, a **sigmoid activation function** is applied to this result, which outputs `I_t`.
+    *   The operation for `I_t` is very similar to how the Forget Gate (`f_t`) is calculated.
+
+## Candidate Memory (C_t)
+
+*   **Purpose**: The Candidate Memory's task is to **generate new candidate information** that might be added to the memory cell. It represents potential new information.
+*   **Calculation (C_t)**:
+    *   Similar to the Input Gate, it also **takes the previous hidden state (`h_t-1`) and the current input (`x_t`)** as its inputs.
+    *   These inputs are combined and passed through a hidden layer with specific weights, denoted as `w_C` or `w_fc`.
+    *   A bias is added.
+    *   Crucially, a **tanh activation function** is applied to this result. This produces a new candidate vector, often denoted as `C_t`.
+    *   The output `C_t` will be a vector, for example, a three-dimensional vector like `[0 2 0]`.
+
+## Combining Input Gate and Candidate Memory
+
+*   **Operation**: To decide which part of the new candidate information (`C_t`) actually gets added to the memory cell, a **point-wise multiplication operation** is performed between the Input Gate's output (`I_t`) and the Candidate Memory's output (`C_t`).
+*   **Significance**: This multiplication allows for **selectively adding new information**. For instance, if `C_t` contains important context, and `I_t` has values like `[2 4 6]`, the multiplication will ensure that only the relevant parts (e.g., `8` in `[0 8 0]`) are considered for addition, effectively "gating" the new information.
+
+## Forming the Final Cell State (C_t)
+
+The final cell state at the current timestep (`C_t`) is derived from two main operations:
+
+1.  **Forgetting**: The previous cell state (`C_t-1`) is multiplied point-wise by the **Forget Gate's output (`f_t`)**. This step **removes or "forgets" information** that is no longer relevant, especially if the context is switching.
+2.  **Adding New Information**: The output of the **point-wise multiplication between the Input Gate (`I_t`) and the Candidate Memory (`C_t`)** is then **added** to the result from the forgetting step. This is where new, relevant information is incorporated into the memory cell.
+
+*   **Equation**: The overall process to get the final cell state `C_t` is expressed as: `C_t = (f_t * C_t-1) + (I_t * C_t)`.
+    *   Here, `f_t * C_t-1` represents the forgotten or retained information from the previous state.
+    *   `I_t * C_t` represents the new information being added.
+
+## Example Context for Understanding
+
+Consider the sentence: "I stay in India. (lots of sentences in middle.......). I speak ------."
+
+*   The LSTM's memory cell will **save the "India" context**.
+*   When predicting the next word ("dash"), the neural network uses this saved context.
+*   The **Input Gate and Candidate Memory** work together to potentially **add new information** (e.g., related to languages spoken in India) to the cell state.
+*   Simultaneously, the **Forget Gate** might discard other irrelevant information.
+*   This combined process allows the LSTM to predict "Hindi" or "English" based on the long-term context of "India". The prediction is strongly based on the country context.
+
+# LSTM RNNs: Output Gate and Memory Cells
+
+## Output Gate (O_t)
+*   The output gate is responsible for determining what information from the memory cell will be outputted as the **hidden state (short-term memory)**.
+*   **Operation:**
+    *   It first performs a **sigmoid activation function**.
+    *   The sigmoid takes `x_t` (current input) and `h_t-1` (previous hidden state) as inputs, along with a bias `b0`. This part acts like a hidden neural network.
+    *   The result of this sigmoid operation is `O_t`.
+    *   Then, a `tanh` operation is applied to the **memory cell state (C_t)**.
+    *   A **point-wise multiplication operation** is performed between the `tanh(C_t)` output and the `O_t` (sigmoid output).
+*   **Purpose:** This operation produces `h_t`, which is the **hidden state** or **short-term memory**.
+*   **Role of h_t**: The `h_t` represents the context of the current or one previous timestamp. This `h_t` is then sent to the next timestamp.
+
+## Memory Cells
+*   **Long-Term Memory (C_t)**: This is represented by `C_t` (the memory cell).
+    *   Information `C_t` is passed from the previous timestamp (`C_t-1`) and updated.
+    *   The memory cell plays a **very important role** because it retains information for a longer context. It remembers information that needs to be remembered.
+*   **Short-Term Memory (h_t)**: This is represented by `h_t` (the hidden state).
+    *   `h_t` is derived from the memory cell (`C_t`) through the output gate.
+    *   `h_t` is related to the current or just one previous context.
+    *   Both `C_t` and `h_t` are passed to the next timestamp/layer.
+	
+## Overall LSTM Process
+*   The LSTM operates in a **looping manner** across different timestamps (e.g., T=1, T=2, T=3).
+*   Within each LSTM cell, information is both added (by the input gate and candidate memory) and removed (by the forget gate).
+*   The entire process involves **forward and backward propagation**.
+*   **Weights** (`w_I`, `w_C`, `w_O`) are updated through backpropagation to reduce the loss.
+    *   `w_O` (weight assigned to output) is specifically related to getting back the hidden state.
+*   The final output, `Y_hat`, can be obtained by passing the output to a sigmoid function, depending on the desired output type.
+
+## Summary of Gate Functions
+*   **Forget Gate**: Removes information from the memory cell.
+*   **Input Gate & Candidate Memory**: Add information to the memory cell.
+*   **Output Gate**: Distinguishes between the memory cell (`C_t`) and the hidden state (`h_t`), which represents the short-term memory.
