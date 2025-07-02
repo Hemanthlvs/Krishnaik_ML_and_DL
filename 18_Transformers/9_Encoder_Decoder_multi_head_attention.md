@@ -2,6 +2,10 @@
 
 ## Key Components and Concepts
 
+*   **Masked Multi-Head Attention**: This was discussed in a previous video, including different types and purposes of masking.
+*   **Layer Normalization**: A layer normalization step occurs after masked multi-head attention, similar to the encoder. Another adding and normalization layer also happens after the encoder-decoder multi-head attention.
+*   **Residual (Skip) Connections**: These connections are present, adding outputs to previous vectors to ensure more information is passed to the next layer.
+
 ## Encoder-Decoder Multi-Head Attention
 
 *   **Also known as "Multi-head attention" or "Encoder and Decoder Multi-head Attention"**.
