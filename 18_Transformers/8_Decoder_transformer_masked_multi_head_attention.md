@@ -1,4 +1,4 @@
-### Transformers: Decoders and Masked Multi-Head Attention
+# Transformers: Decoders and Masked Multi-Head Attention
 
 #### Understanding the Decoder
 
