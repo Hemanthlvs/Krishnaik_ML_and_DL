@@ -5,6 +5,13 @@
 *   The **next step** after Multi-head attention is called "**Add and Normalize**".
 *   This is where **layer normalization** happens.
 
+## Understanding Residuals
+*   **Residuals** refer to the information (vectors) from previous stages that are passed along to the "Add and Normalize" step.
+*   Specifically, the vectors obtained after adding positional encoding to input embeddings are also passed to "Add and Normalize".
+*   They **provide additional signals** to the layer normalization.
+*   In simple terms, residuals involve **adding the previous encodings** (from input embedding and positional encoding) before normalization.
+*   This means whatever pre-hand information is available is passed to the next stage.
+
 ## General Concept of Normalization
 *   **Normalization** in deep learning is used in two main ways: **batch normalization** and **layer normalization**.
 *   **Purpose:** To transform input features or neuron outputs to a standard scale or distribution.
@@ -50,7 +57,49 @@
 *   After the Multi-head attention output, it is **added with the "residual" `x_dash`** (which comes from input embedding + positional encoding).
 *   **Then, layer normalization is applied** to this combined result.
 
-## Simple Problem Example (to be discussed later)
-*   An example will be used with a "Cat" token embedding: `[2.0, 4.0, 6.0, 8.0]`.
+## Simple Problem Example
+*   **Token Embeddings**: We start with initialized values for a token (e.g., "cat") represented by a vector: `[2.0, 4.0, 6.0, 8.0]`.
 *   Initial `gamma = [1.0, 1.0, 1.0, 1.0]` and `beta = [0.0, 0.0, 0.0, 0.0]`.
-*   The goal is to show how a single vector gets normalized.
+*   **Parameters**:
+    *   **Gamma (γ)**: This is your **learned scale parameter**. In this example, it's initialized as `gamma = [1.0, 1.0, 1.0, 1.0]`
+    *   **Beta (β)**: This is your **shift parameter**. In this example, it's initialized as `beta = [0.0, 0.0, 0.0, 0.0]`
+    *   Gamma and Beta are collectively called **scale and shift parameters**.
+
+## Step-by-Step Calculation
+
+### Step 1: Compute the Mean (μ)
+
+*   The formula for the mean (part of the Z-score formula `x_i - μ / standard deviation`) is `(1/N) * Σx_i`.
+*   Calculation: `(1/4) * (2.0 + 4.0 + 6.0 + 8.0)`.
+*   Result: `20.0 / 4 = 5.0`.
+
+### Step 2: Compute the Variance (σ²)
+
+*   The formula for variance is `(1/N) * Σ(x_i - μ)²`.
+*   Calculation:
+    *   `(1/4) * [(2.0 - 5.0)² + (4.0 - 5.0)² + (6.0 - 5.0)² + (8.0 - 5.0)²]`.
+*   Result: `5.0`.
+
+### Step 3: Normalize the Inputs (x̂)
+
+*   This step uses the formula `x̂_i = (x_i - mean) / √(variance + epsilon)`.
+*   **Epsilon (ε)**: A **very small value** (e.g., 1e-5) added to the variance. It's used to **avoid division by zero** if the variance is zero.
+*   Calculate `√(variance + epsilon)`: `√(5.0 + 1e-5) = √(5.0001) ≈ 2.236`.
+*   Normalize each input value (`x_i`):
+    *   `x̂_1 = (2.0 - 5.0) / 2.236 ≈ -1.34`.
+    *   `x̂_2 = (4.0 - 5.0) / 2.236 ≈ -0.45`.
+    *   `x̂_3 = (6.0 - 5.0) / 2.236 ≈ 0.45`.
+    *   `x̂_4 = (8.0 - 5.0) / 2.236 ≈ 1.34`.
+*   **Normalized Vector (x̂)**: `[-1.34, -0.45, 0.45, 1.34]`.
+
+### Step 4: Apply Scale and Shift (y_i)
+
+*   The final step applies the learned `gamma` and `beta` parameters.
+*   The formula is `y_i = gamma * x̂_i + beta`.
+*   Using the initial `gamma = [1.0, 1.0, 1.0, 1.0]` and `beta = [0.0, 0.0, 0.0, 0.0]`:
+    *   `y_1 = 1.0 * (-1.34) + 0.0 = -1.34`.
+    *   `y_2 = 1.0 * (-0.45) + 0.0 = -0.45`.
+    *   `y_3 = 1.0 * (0.45) + 0.0 = 0.45`.
+    *   `y_4 = 1.0 * (1.34) + 0.0 = 1.34`.
+*   **Final Output (y)**: `[-1.34, -0.45, 0.45, 1.34]`.
+*   **Note**: If the `gamma` and `beta` values are changed from their initial values (e.g., during training), the output distribution can be adjusted.
