@@ -1,3 +1,6 @@
+Check out [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar for a visual explanation of how transformers work.
+
+
 ### Self-Attention Recap
 
 *   **Self-attention** is a process that helps a model understand the context and dependencies of words within a sentence.
