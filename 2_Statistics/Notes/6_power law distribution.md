@@ -34,3 +34,6 @@
     *   It is similar to other transformation techniques like log transformation or standardization.
 *   **Pareto Distribution:** Any data that follows a power law distribution is also specifically called **Pareto distribution**. It also follows the 80/20 rule.
 *   To **check if data is normally distributed** after transformation, you can use a **Q-Q plot**.
+
+*   **Key Takeaway**
+    *   Pareto distribution **always follows a power law distribution**.
