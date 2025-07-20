@@ -52,3 +52,31 @@
 *   This process of calculating the slope and updating `θ_j` **iterates continuously**.
 *   As `θ_j` is adjusted (increased for negative slopes, decreased for positive slopes), it **slowly moves towards the global minima**.
 *   The process stops when `θ_j` converges near the global minima, leading to the **best fit line**.
+
+## The Role of θ Values and Dimensions
+*   **θ0** often represents the **intercept** (where the line crosses the y-axis), and **θ1** represents the **slope** in simple linear regression.
+*   **2D Diagram (Simple Case):**
+    *   If the intercept (θ0) is considered zero, the best fit line passes through the origin.
+    *   In this simplified scenario, only **θ1 changes**, and Gradient Descent can be visualized in a **2D graph**.
+*   **3D Diagram (More Realistic Case):**
+    *   If θ0 is not zero (meaning the line doesn't pass through the origin), the visualization becomes a **3D diagram**.
+    *   This 3D curve looks like an **inverted mountain**, and the aim is to find the lowest point (global minima).
+    *   In this case, **both θ0 and θ1 are updated** iteratively to reach the global minima.
+
+### Derivative with respect to θ0 (for j=0)
+*   After applying derivative rules to the cost function with respect to `θ0`, the derivative simplifies to:
+    *   **`(1 / m) * Σ [h_θ(x_i) - y_i]`**.
+*   This is because the derivative of `h_θ(x_i) - y_i` with respect to `θ0` is `1` (since `θ1 * x` is treated as a constant).
+
+### Derivative with respect to θ1 (for j=1)
+*   Similarly, after finding the derivative of the cost function with respect to `θ1`, it simplifies to:
+    *   **`(1 / m) * Σ [h_θ(x_i) - y_i] * x_i`**.
+*   This `x_i` comes from the derivative of `h_θ(x_i) - y_i` with respect to `θ1`, which is `x_i` (since `θ0` is constant and `θ1 * x_i` derivative is `x_i`).
+
+## Final Convergence Equations for Simple Linear Regression
+*   **Repeat until convergence:**
+    *   **θ0 Update:**
+        *   `θ0 (new) = θ0 (old) - α * (1 / m) * Σ [h_θ(x_i) - y_i]`.
+    *   **θ1 Update:**
+        *   `θ1 (new) = θ1 (old) - α * (1 / m) * Σ [h_θ(x_i) - y_i] * x_i`.
+*   These equations are repeatedly applied until the model finds the **best fit line** or **converges to the global minima** of the cost function.
