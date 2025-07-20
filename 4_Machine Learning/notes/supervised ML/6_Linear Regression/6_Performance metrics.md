@@ -63,7 +63,7 @@ In linear regression, we aim to create a "best fit line" to predict output value
 
 ---
 
-#### 1. Mean Squared Error (MSE)
+### 1. Mean Squared Error (MSE)
 
 **Formula**:
 MSE = (1/n) * Σ(yᵢ - ŷᵢ)²
@@ -88,7 +88,7 @@ Where:
 
 ---
 
-#### 2. Mean Absolute Error (MAE)
+### 2. Mean Absolute Error (MAE)
 
 **Formula**:
 MAE = (1/n) * Σ|yᵢ - ŷᵢ|
@@ -108,7 +108,7 @@ Where:
 
 ---
 
-#### 3. Root Mean Squared Error (RMSE)
+### 3. Root Mean Squared Error (RMSE)
 
 **Formula**:
 RMSE = √[(1/n) * Σ(yᵢ - ŷᵢ)²]
@@ -127,7 +127,7 @@ Where:
 
 ---
 
-#### Which Error Metric Should You Use?
+### Which Error Metric Should You Use?
 
 As a beginner, it's recommended to evaluate your model's performance by looking at **all three metrics (MSE, MAE, RMSE)**, along with R-squared and Adjusted R-squared. Each metric provides a different perspective on your model's errors.
 
