@@ -54,3 +54,86 @@
 *   **If you add an irrelevant independent feature (one not correlated with the output), the Adjusted R-squared value will decrease**. This is because the 'p' value (number of independent features) increases, which impacts the division in the formula.
 *   **If you add a relevant independent feature (one directly proportional/correlated to the output), the Adjusted R-squared value will increase**.
 *   This behavior helps to identify when a model is becoming overfit by including unnecessary features.
+
+## Model Performance: Error Metrics
+
+key error metrics used to evaluate model performance: **Mean Squared Error (MSE)**, **Mean Absolute Error (MAE)**, and **Root Mean Squared Error (RMSE)**. These metrics help us focus on the error with respect to each individual data point, unlike R-squared and Adjusted R-squared, which give an overall model performance indication.
+
+In linear regression, we aim to create a "best fit line" to predict output values (y-hat) based on input variables (e.g., years of experience to predict salary). The difference between the actual "truth variable" (y) and the predicted value (y-hat) is the error. The main goal is to **reduce this error**. We use different "cost functions" to achieve this, and these error metrics serve as such functions. Reducing the cost function helps the "best fit line" to be created in the most optimal way, often through a process called **gradient descent**, which aims to find the "global minima" where the error is minimized.
+
+---
+
+#### 1. Mean Squared Error (MSE)
+
+**Formula**:
+MSE = (1/n) * Σ(yᵢ - ŷᵢ)²
+Where:
+*   `n` is the total number of data points.
+*   `yᵢ` is the actual (truth) value.
+*   `ŷᵢ` is the predicted value.
+*   The errors are squared and then averaged.
+
+**Key Concepts**:
+*   The `(yᵢ - ŷᵢ)²` part of the formula represents a **quadratic equation**.
+*   When plotted, a quadratic equation forms a **gradient descent curve**.
+
+**Advantages**:
+*   **Differentiable**: The MSE curve is differentiable at all points, meaning we can calculate the slope at any point. This helps in adjusting model coefficients (like theta values in gradient descent) to reach the minimum error.
+*   **Single Global Minimum**: Because it's a quadratic equation and forms a "convex function," MSE has only one local and one global minimum. This is very important because it guarantees that the optimization process (gradient descent) will find the true lowest error point and not get stuck in a "local minima".
+*   **Faster Convergence**: Due to having only one global minimum and being differentiable, the optimization process (convergence) usually happens faster.
+
+**Disadvantages**:
+*   **Not Robust to Outliers**: This is a major disadvantage. Because MSE **squares the errors** `(yᵢ - ŷᵢ)²`, large errors caused by outliers are heavily penalized (magnified). This increased error forces the "best fit line" to shift significantly towards the outlier, potentially misrepresenting the majority of the data points.
+*   **Units Are Changed**: The unit of the error is squared. For example, if salaries are in "lakhs," the MSE will be in "lakhs squared". This makes it difficult to interpret the error directly in the context of the original output variable.
+
+---
+
+#### 2. Mean Absolute Error (MAE)
+
+**Formula**:
+MAE = (1/n) * Σ|yᵢ - ŷᵢ|
+Where:
+*   `n` is the total number of data points.
+*   `yᵢ` is the actual (truth) value.
+*   `ŷᵢ` is the predicted value.
+*   It takes the **absolute value** of the errors and then averages them.
+
+**Advantages**:
+*   **Robust to Outliers**: This is a major advantage of MAE over MSE. Since MAE uses the absolute value instead of squaring, it does not heavily penalize large errors from outliers. This means the best-fit line will not be significantly pulled towards outliers, staying more representative of the main data distribution.
+*   **Same Unit as Output Variable**: The error unit remains the same as the original output variable (e.g., lakhs for salary). This makes the error value much easier to understand and compare directly with the actual values.
+
+**Disadvantages**:
+*   **Not Differentiable at Zero**: The MAE cost function curve has a sharp "V" shape, which means it is **not differentiable at the zero point** (the global minimum). This makes the optimization process (gradient descent) more complex, often requiring "sub-gradients" to calculate slopes around this point.
+*   **Slower Convergence**: Because optimization is more complex due to the non-differentiability at zero, the model's convergence to the minimum error usually takes more time.
+
+---
+
+#### 3. Root Mean Squared Error (RMSE)
+
+**Formula**:
+RMSE = √[(1/n) * Σ(yᵢ - ŷᵢ)²]
+Where:
+*   `n` is the total number of data points.
+*   `yᵢ` is the actual (truth) value.
+*   `ŷᵢ` is the predicted value.
+*   It is simply the **square root of the Mean Squared Error (MSE)**.
+
+**Advantages**:
+*   **Same Unit as Output Variable**: By taking the square root of the MSE, RMSE brings the error unit back to the original scale of the output variable (e.g., lakhs for salary), making it easier to interpret than MSE.
+*   **Differentiable**: Similar to MSE, it forms a gradient descent curve and is differentiable.
+
+**Disadvantages**:
+*   **Not Robust to Outliers**: Since RMSE is based on squaring the errors (like MSE) before taking the square root, it still heavily penalizes outliers. Therefore, it is **not robust to outliers**, similar to MSE.
+
+---
+
+#### Which Error Metric Should You Use?
+
+As a beginner, it's recommended to evaluate your model's performance by looking at **all three metrics (MSE, MAE, RMSE)**, along with R-squared and Adjusted R-squared. Each metric provides a different perspective on your model's errors.
+
+In an interview setting, if asked to compare:
+*   **Use MSE** when differentiability, the guarantee of a single global minimum, and faster convergence are priorities.
+*   **Use MAE** when robustness to outliers and interpretable units are crucial, even if convergence is slower.
+*   **Use RMSE** when you want interpretable units (like MAE) but are aware it's still sensitive to outliers (like MSE).
+
+The choice depends on the specific problem and the importance of handling outliers versus optimization speed and mathematical properties.
