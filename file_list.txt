@@ -1,0 +1,1219 @@
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\10_NLP_for_DL
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\15_Bidirectional_RNN
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\16_Encoder_Decoder_or_SequenceTOSequence_architecture
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\17_Attention_mechanism_Seq2Seq
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\6_GIT
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\file_list.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\COMMIT_EDITMSG
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\config
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\description
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\FETCH_HEAD
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\HEAD
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\index
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\info
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\ORIG_HEAD
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\packed-refs
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\applypatch-msg.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\commit-msg.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\fsmonitor-watchman.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\post-update.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\pre-applypatch.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\pre-commit.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\pre-merge-commit.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\pre-push.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\pre-rebase.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\pre-receive.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\prepare-commit-msg.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\push-to-checkout.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\sendemail-validate.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\hooks\update.sample
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\info\exclude
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\HEAD
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\refs
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\refs\heads
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\refs\remotes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\refs\heads\main
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\refs\remotes\origin
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\refs\remotes\origin\HEAD
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\logs\refs\remotes\origin\main
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\00
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\01
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\02
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\03
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\04
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\05
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\07
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\08
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\09
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\0d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\0e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\11
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\12
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\13
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\14
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\16
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\19
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\1d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\1e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\1f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\20
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\21
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\24
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\25
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\27
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\29
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\30
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\31
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\32
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\33
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\34
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\35
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\36
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\38
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\39
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\40
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\42
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\44
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\45
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\47
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\48
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\49
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\50
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\51
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\52
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\54
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\55
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\56
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\57
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\58
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\59
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\61
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\62
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\63
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\64
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\65
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\66
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\67
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\68
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\69
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\70
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\71
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\72
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\73
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\75
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\76
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\77
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\78
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\79
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\80
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\84
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\86
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\87
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\89
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\90
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\92
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\97
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\98
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a7
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\aa
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ac
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ad
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ae
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\af
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b7
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ba
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\bb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\bc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\bf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c7
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ca
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ce
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d7
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\da
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\de
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\df
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ea
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ed
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ee
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ef
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f7
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fd
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fe
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ff
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\info
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\pack
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\00\311cafc12e15bd946f25a8683905968f1b035d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\01\59ef5565cf2c1970acb517927dd08f2c3c1439
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\02\3a2d04dbef2ce720e4f152524c3aee0e2a91e0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\03\0ea205e29fd820022b6ff6c00f5bf521e14057
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\04\2cf5fc5b9692abbc05c7890157d7be7d6a0bc5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\04\ab172971368de79ede93c265413d04c11c648e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\05\8ffd52f60ab5fe8156579dd9aadb06731162aa
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\05\ff30ddc60ea682683a07dca8f9b2c7647a040b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\07\3d349b8ad2e3ad65e5f90994fe64bfeb3be161
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\08\451c9c9c2bd9d8e935bfbefedcf15563492c59
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\08\9d7c17b62b9edbf61fafebefe10968b89a1fa5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\09\083fc9ba64596648a2cc5ce7aea12cd72ebbc2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\09\a8614b68ba64fde4a38d36cd7a5b2980913036
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\09\b17942b107db424226b3a7e43c520c9441c0c2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\09\b5a23f09b3af53ac49edffee536ec61d0f9736
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\09\f3509f18825b42a6e40eea3962d7143f8982ce
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\0d\82b6943b7e332d9639582e58fe197a832e9367
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\0e\a1facff659f8c5d77409782c09c9a62e75f670
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\11\0067447d345019b80d708cf841a734523274e6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\11\b9f84c231c383b24b62b0149081604d48bdfe0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\12\d6374aae53c275014d79473dbd9f34f8350722
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\13\027f84242964d71996a82fa50fac158757f3e8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\14\0283c6c291dd0fe71c233368c7cf66845fdd09
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\14\a796faf9031dd12578bb3b633571239e6ddd55
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\14\b6ae259b7c640f59ca25c2bf499dece8eda183
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\16\6494d79d150bfc0059e8023a30dea9dd6dd2ea
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\16\91826a60cd46c78ebe66e16267b492389dbac1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\16\9e93c7dfea1bef992ec244e981485c12a4d5bf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\19\20225d206aca2f2ccc700d0a16c87dd7ca2af6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\19\439cd0d700fe3f37e01c78de0bb351f3dec663
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\19\60104d2d527e160f446f64a140130eaacb9f70
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\19\dad53f757acaacaebaf92dedcb165d5b77760a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\1d\2b19ce358095c318a2543347c87cf9b06b65e2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\1d\c74a81f7d63137d8c6a5b7a339ff725c4c2750
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\1e\52e752f947dad792a06fd21cfd7ba7e37d4566
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\1f\427f213551ea080b14fde8e51778aa6065d6d2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\20\02b83c20c11f7f90fd0c57db2c6ac09f7c9612
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\20\31a157daf2e8724b9856eab0ebe41b163789b8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\20\ad85dc0275fae432622bbffe7e6e61022941dd
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\20\c321094638409deb26ff7d5f5362a5b91a6416
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\21\19735e7f8c16b6463b62a726b2dc47a48074f0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\21\b5cd41cdacbdd57e6fbfefb5fe6798def6af60
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\21\e2fff3b0d37b55606a7da358d14187a4050cf5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\24\4820e50a982fd9eb40fb7911bb449c1990c444
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\24\59ec129d80eb37fc6efcaca7fcbeb7ebbc4a50
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\24\5d3e9d3b0bbcb4199918798b779502a4c6c96a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\25\a730bbf50ad68902e72ec80210f2de7911cd87
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\27\4b6363ec75af6c8a73755ba2637c884f4171dd
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\29\3a690b45c419af7197c50d04b1ed6f0819d297
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2a\282379a37ba27bef7c95bf5854994263896a93
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2a\b63a1a8d1717aff5c8ad5446227cb66705e4bb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2b\654040e10e82bcee6c69452178c7037a08f093
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2b\d62818945773c7718720bd0271412285cf1d7c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2d\65af5581654024ec6287920f7292513facb79d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2d\8a3af57ad22578533cedfcc218d3ceacf07721
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2d\a3262532b36471cbd1214617611c3d81b00d2e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\2e\743d846d4ef8367f58b193feda8a96a7333538
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\30\10e80ecd2fda852ce114347cf4808cba52a431
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\31\50b543ce3c2d7a119fecd84cf9869923ab40f9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\31\9ddf8d58f62fe353649b22505f30b1f4df2051
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\32\7240d46134fd884b98abcf76473a0bad405bdb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\32\ba0a5247c814dfbd8088c3d293b63781448e92
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\32\d8dd045cc672ae50251124bc688d81d447b7c9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\33\e3ff663ff9604570c04adb579682ef2339262e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\34\4ea99205ff55ccc7da4f98aeed3e5eb0b888a8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\34\7bcd8b0ac5c75f1faeeddf9c579c9b2d381401
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\34\c4a4f02d4fe333c86eb98b39b2e0ff6181a9ad
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\35\9a5011578daaebd1944a023b1cca5aba033891
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\35\c46e6d891b2b2dda26c662f9de2865d2530ead
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\36\205a4095124681e05e16599fec0383f9b30383
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\38\55e41397cbaf05edc58b11ef6cf72cecca8bd4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\38\a9d66d3b261e40e7b0e3e0ab9b06dafcfbd9ed
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\39\98d754955039b96e26a211acb6ff393cc2eb91
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\39\dc627b295b6ce2ef89c69cb9d229afa1fd098f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3b\5d2e72df4703035592c2c9866b3b9ceb491da6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3b\8e024e89baa274e55568174809782454f2e7b5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3c\6c00dc7c6438737ad78f08c30de820b8495dc0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3d\6e850946e4c1971617a736db860d392bd1d11e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\3f\b3398eeee757f85595f8b83905e68b05612587
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\40\8814fa2a7a6bfd9909dfc90eed7170adc43233
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\40\9b20039273735722878e47736b6dd74f8f26ac
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\42\e54a0d1f704ddb43397d3d441ba427c0515ce8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\44\3ea8f93535bb81dfe28ba3b6713edb57c9d676
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\44\b8bc9ab71e58612e4a2d764f121de0b95b90b1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\45\c2c4d2a38edaab30f6b08f33b54d4bb34fa12a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\47\aa217d8befa001bc146b91a65574d076977e60
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\48\c1c493b1f110494da68aa3ac34f553cb5746ec
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\49\59ed721e8f414cdf50a82a034d2a8393d679a7
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\49\871a295164e7b9ecdf83fd0f61af1d3cd6e00b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4b\318dd38a81595ef49043d8ba2620bcac213897
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4b\9eb1d2d7754839cfea07e5fd17a039168a2997
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4d\b4904dc36c6706ffe8ac4c029bf98bd5a329f2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4e\794d62b0e077e4afb385aed53ad222ad87afaa
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4e\e6f4f1bfee8eeb3c3f56f419dd8820a02bee7b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\4f\e9600b2a22a11fb9c0fd1f7eecc27fd610c78b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\50\b2ae74dda676eb4cd0157abdc7db6431fb0ec2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\51\4397ce78c1ee24ba12fbb860fd162617af4819
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\51\5d339008ca162ba91ccf923321a9380b456d4f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\52\4382cf08d2a65f5f36561ee7e8bdc4e4de99f2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\54\c5617ae8dae2e7396d74afc4976eda346fcf76
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\55\9f9c614ceaeaeea07d68213178eaac2c2b5e32
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\55\eac5149fac1d37af816a864fae6107784586da
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\56\f7e4fb2883b6586ab015e1048cce513578cda3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\56\fb43c20bfcd5bef35f48120d46f05ad5940c60
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\57\566070489a994b2efa58ef29c11c8747ab1611
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\57\a488186d95fd66d35e9ebe306549d2fd998375
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\57\babfaff3af626b14dafdd87d3a2b0316e14c7f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\58\a27d4c555747900ffa5029b719cc20e1cac11c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\58\cd2d689abaa1c66db51fdaf12c97fa83fbab78
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\59\8d11cff74a4017e098714749177de4bd8c7813
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\59\fadd0dfe4600f7424b49a292ee08859b176c1c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5a\85e2068fbbb43a9e864a4956694d214e11e391
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5a\995c9c008771424e7bab5cd02f2d62a11f4989
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5b\45d6b5af9bfe248e4375ad9f3b7a3c904730db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5b\a3488af86094105f01dbb84c4fc35eb91d8b9d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5c\d831f9929178443118b89ba3f2d59195730b18
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5d\4d752c9f1840749f31ec47244cb802271f1918
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5d\842fdc64e3466c4a5c5ed180da6fb989b1420a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5e\0fc879cc6550af4d21202ea5d4a3d315cba4d4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5e\7a88546d9d24d256187fce3903eff48a7867e4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5e\823479b72b8e40a58183c5dc391c9b70f457ee
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5e\b19b25e9ae174dbc8a9793fe5f8a69068c8255
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5e\d6f3ebc4e3c9e6673e319d3803432578dd9088
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\5f\fb4556729573b4390eb032921451a54fb0f996
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\61\7b9977fd7ae2380231fb10e9a22e89c44f26b1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\62\6cd21d3eb45421cd824164bffb83f601000a6c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\62\af95b1bf7fe762b4d63ed3c55098a95d67cfff
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\63\f5998a305574ff36737e4bccb5ee61a24c26e0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\64\1059bf8ed761d0ba05b935cf0ac826972a940f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\65\b5f7fde72c3bcb8616369c6f3fcb64c4446244
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\65\fa7c935b5719d39715e566d16f92640975af41
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\66\001de6a54471956d752ef33ecda8b6f967d56a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\66\da3fd1ed3b1274305593c0267a362953abce3c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\66\f753adadd20c30cbff8bc71e1a223f7a22a290
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\67\d8ae385984b3d2d7b35c855d6627af86fdb8dd
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\68\7e4d26a4861dd81f945d0abb3d52cc085839e0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\68\8059d2e98e9f9d6113fcdb02c71ae4169472ff
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\69\74d81c577db1813cb5c2ebf854168245536764
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\69\a7de45bff5b54ec892763a978b6b18063b37cf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\69\d5cebcd9330cacc5980167bd4ab5e6273e5c11
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6a\84c7521d39a4f38868140303fb2e142cf237c8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6a\96164675d998023a7e61ad887c4e8bad24c314
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6b\e16c491fe27a3fd23c757bb9685a24dd4cde2f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6b\edc9a225c837fe2700f71b2e428ff55da7a317
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6c\24912a22b86b8b27669733f0624d2c5a130d7d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6d\3c3e3a57ab0a4b4a06d18d7f7d46612c581111
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6d\f74777a2b178b98d1065b24c6c766eecc6ccaf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6e\32a4ae579533f4a2ce48dfe3d572c4512aa530
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6f\4acc91bd134ed53260471a8c6362a2a2c34f5a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\6f\83c5a76faff91b80771c63ba95567b8a833c9b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\70\3e0318cce6ca08f59f572f5d181caf52a96bba
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\70\86b460e4c8f00db766932d09f0c2f6b82a2a0a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\71\5b4a5a4cb3294778b956b0e092aa6296103d7b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\72\79f7377066b89efc67c648a49189bf10a536b3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\72\9a059bb8501b358fbd3c630c0f1aec965d334c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\72\db1719c720ba7e8e534b1bfcdc66242a8a1154
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\73\6ab367dd6a8d7d06c1d279d072c290ee0a246c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\73\bf52cc39f3b812679bb7caf045e75ea373a3a3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\75\57c8a69203b6c0c97eb53c247493953a4aad74
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\76\24f741714e26f7e46ffa18bd1ff1180368ddb6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\76\c9f99d4d3d5668ffb487b796d3ef48c9247954
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\76\dfd7d51507bd4ba223a35d8b64e9112fba5adb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\77\70a91a650cf57bc7188a44978921871f8e3fbe
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\78\07c99f95fab63dafc3131ada5a58739c5272ee
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\78\9832c33b4ae8f031b7f1d64fc0ae8c45203644
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\79\4b521031fd37e281faabb0ece0e44d98921c8d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7b\ff1119ea6366701576a85b9ac21d58e36215db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7c\968a95900d7ed6dbd2c741d66dbbab4f158762
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7c\b4142ddcd8eed07da921d930cd8492377edf96
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7e\1bda4d69ae0be705f6396fd2a2db482c641fef
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7e\690b6b93eaad4d873b74164e4d4f5be25a204f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7e\7d1a307012ccdf2848e62b7b9a85a057426889
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7e\ab5102aebe597e55ef3ff816ce516ccdafe4fa
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7e\ac5efc188a124c9e2f41a8ee883a02f6f436ff
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\7f\0563979d8a54fb6a2fb802074dc3dbe8169e3f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\80\0c548025dbfe8f2cebaf097860270c6eb3228d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\80\63f23ea7594d6d9198e5fb9761cf81d9d12ca6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\84\0bbb1c6ab1a996afb71e580bf8c48177690e01
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\86\3acaf7be7ff39eba8ab56c5360238725463b11
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\86\4ec45449c03c6f5d1f4f3e0d59a072aa9e2848
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\87\f72ed2f2c9d262f17e607bec861dbd8c9c87ec
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\89\598bc28354781b804f047e8f3f0729f5a1cb46
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\89\6f5b717fe32357d5cad6c2ddc63d394a3425fe
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8a\3fa6ff2a0153b0dc607b8dd2f9fc8dbe99f8e3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8b\cae9d7d716c2bed338b3fb76f39ba10c094ab9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8c\0805f8493b549eeefef4e1baf84a416c3104df
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8c\a9b11d1d9b744ee431fd33d250ccad0861bbc2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8c\d9e39f8c0a60a305dc3e07fb71d165a08b08a3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8e\bc0a6cc22a3547d9438b2b0219ad2ca6047c5d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8f\475c0872fcfe0c0da03527cf3d8218be931a6a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8f\7bc866c790e3bebfb96f2a7ff879144675fd19
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8f\8dd19f348a5b29345fd7db4520674864cd1708
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8f\a0bd6ce47b888150e05f64c60e2c796ddc37b3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\8f\caa82340d299376f621840d68216d87524705c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\90\0f042272f26bb03e78923d5556a6419d0a704b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\90\6c9f31bfd53f70c8f1c5b3c528c3968cb822e1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\92\7bb705d3ffcae9c5b33e7c537d51e47609620f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\97\58e7699c787791b9c774eb3a3ceab7281f1131
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\97\9e1ef0ce42915b3f27a30ae7bcf93dce0b2544
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\97\df4e78401c0e45ac9a764bd31f4002431f14d4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\98\650673e6ce545fa4ea7825d5619cee2ca5981a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\98\962c43f0922bfefa4b833f0a272b8a2927f95e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9a\09fd4b781a9063d79caeef0de5f3619dcfc4cc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9c\69db7a609457810e753f37a545472bb5f120ee
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9c\88cba61aafd2a37df9ffea5d7e43e8ce741c5d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9d\dc31be618b47aa78aef22b8ce1511d95e98c9e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9d\f0192c6036d0b3dd75ddceb1edf1c6f61aaa48
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9e\e55948409600783ad3f9f1e8d9de19d3653019
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\9f\5aa7e57bf74a5e58af23e2ad52a63472f580bf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a0\d24291368ffbc64c4e6f769cb935ffd184c7bb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a1\09edaab9a3360d54b89d87ad1775be0259f42c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a1\596b972837c2c3780348cb1bc424a3c51ff3e4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a3\6571c548123991562505c5471d1dd41629a99d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a3\73fa66f4d56db26ef004aef5661c1da6917d71
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a3\a6396939ae45a18a5ee607106707cf0c4780ee
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a4\db53947acac7c02703732c0baacc89406908ed
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a5\e124f16f2cae7ddb75907aa3f0d07e0c317bea
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a7\bbb0cd530c68751332ac6a0d7aa70c5dcd7f07
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a7\f9b9bfaa1bc4294823085e4e585c057011d649
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a8\df2ff68f3eb2553978f32c80f857011c1143bc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\a9\fa36d0053a2b45c02006beabfa8cf7e7c9e350
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\aa\28c2377b7eeb70915aab12dfce7fc282184739
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\aa\b0e903b521b0e181c42e0c8131c36fbb047e60
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ac\08b8f8ce2fc94e118d7a8717d4f15cd041ce86
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ad\93045df49eab3e42169c5765579f6c64b82071
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ad\e8530a6ac815ec12e188e93e30a9d9fd5ebe18
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ae\0ee6d19a67a57ed1edb6ae9fabe67b3e9f7061
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ae\a3824cc2d3bd29440c77dc34130a6e5449e23f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ae\f9ed5952d821354cd5e524f81994abba6f490e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\af\49ccb2473b3c1fb069162f5f38b9e9ba33c010
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\af\e9219f086d8bb34b0a06787e0574b1d13191e8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b0\4179e90bdbb33bd716c860f5ef46dbc23d7f71
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b1\b0f053b1d0ea435d6d17ea41a1ba80b21f82d5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b2\7a3dcab1247447747583e75b8a2cb228ee8526
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b3\4938b6033c4139e65bab1f0477971437a6c4cc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b3\5fdd097cd6c4945b0e590c722c3f486f09eaca
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b3\bcbfe4b0ac7ee6918d6d1e879f7c35a698824b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b3\e0d3284a100add20e7da2c5da431e87aee09c4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b7\8b6c2d9005a6741827826ca19c117832289de9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\b7\a06cef193c01ed1ec84e6ea705427be74c05d0
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ba\7bd57a335caa2f84604687abbaf4e0c9fd2ade
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ba\94e9e0f4c587e4daa0922658e440e79729ba93
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\bb\4f02f5900eeac2cae2f91af8be65535b61c6c1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\bc\3a25e42c4dd4a9c65c891ff0292eb5c82a470e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\bf\feb842ea031ff406a89ed4f71cbc2dc0115d43
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c0\7ed8395020de8c4b33fcbc000a13d90dd8ec2b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c0\e20bf68495f0f8a961814a79e4773e410a8ba6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c1\34de74282ca70ed2972ab935192b8ebf87cbe5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c1\7721570d4ac5eaa3d349cf8f5fa93819481d25
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c1\b1c2a76d17be8aeca41a563aa1f9d9bb8cf044
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c1\b4120f1dbd769ba4a28fb8187517a52e2892e7
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c1\d34106a94db946258c29b19f1cc0ba9f2b4ad1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c1\fdff7e2da02d3d16e7db3368e0b8c4eaddee6c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c2\1563d25d1944931709e8db027e4b9a7cddb451
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c3\1a2e525a0504ce0e1b2ff5042e7822ef21ce83
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c3\3eef997dde886b6e4331ab9da1403fb85cd4ca
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c4\03008b5e4e8f35977ba46b36f83fa0b39774c6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c4\67b7ba07fee3806faeef4bc84e14cdee84fe38
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c5\4ca69638ed478cf0310e55bab74e296e8b53a9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c7\9f83bef38c3478f23c0464a8f1c1a8d1d454c3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c8\1ed019853095b844010da13d0bb99b1b07f2c2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\c9\f801f1d03237c8c669187c6b52294832bb962f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ca\6a3dae0bce45c3621769ad5015788dd772b2c6
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ca\f26351970a8cbb16ff1be889803a84c283939f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cb\5b64efe85b822dbef186390c7ebfb6e94dedcf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cb\6531034ca02b598f7fb63b08aa79510ee1e2de
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cb\a55f54afe5ca6849d801262733348c5b5e347a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cc\63023f8464d981d930ecb8a87a122fcd406e1b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ce\0c27fa9af18bda98507777446cf4d06eeb96fd
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cf\73736a8f01e5cca68154d28fedc5c0863cd77a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\cf\8914e90dd34836ba5568dfe78996ace60cf1a3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d0\2396f64e7716c8f65c0d6bfe933a713c2345ae
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d2\ad9a4cee2cef9764e506c1bb89d725efccb969
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d2\d069939dc5dde8d88624a294f145b2fdaa9428
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d3\42501237f91efd2b8e11f31273e159c285e288
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d3\c73ebb92feeff70fc44081239137c44c911c0d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d4\74ac31cbc9a64d1eb58fcfbad27929998b795e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d5\9ba174d0bcc51b2f3ab40b116a5d9f31737f88
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d6\166737f47dadb187749da6facf8245cd3a7ba5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d7\8b1eb8969406a862c7f67e77494bf72a8764e5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d7\b5c3f63ac8659a25a05473e6e84f45270a8706
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d7\d1e0dec08fb24d614190abbc10b3e9c9e5efa2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\d9\5d53d3f05f6fb1f0444a7cc41b0599bfe7b81e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\da\0f135a63e43a6c3cb5029af607ea88a2ac4efb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\db\889c81b766aaa18e827130928679361aeb24eb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\de\0078c9061dbe0bf00f1c6800e6d939a2230fb2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\de\75ea3159562d7f3b06547a5ae6023ab971e103
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\de\c689136857cffd2d3a2ca0e613da59f28c736f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\df\3b63ef3f823466eddad530933a194fc4cd26c8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e0\28671fa271a4a34c22c4ef4bc11665d5d84e95
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e0\d9f8f5fe80b5307e5e7dfc5f6ab73765c59fb8
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e2\1687ae7ce755ac238735b9ccef8fb7d603d19d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e2\856254f1c1f4fbe55886b7b647f1fab3fab6db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e2\bec40bca5d63ad728e40d9a800a10070da755f
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e3\d3ca18abdc7a3a9b24646cf367e08f3e1c9e47
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e3\ec9041f4937081e60855f52b83ada9e75a7f2e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e4\31e416ed37776b97f861c6d866d8560640a750
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e4\7b095ca9907e4447cbf4ae3c1a608b7f5e58f5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e8\1d5482a18e0320e560f46f8370ee3e26dbf4f5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\e8\7d42011745029ed5d52d9af59fc876cafe61db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ea\1c19997fe6ceeaf226096fda15b95b3134eb7a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ea\3bfa3a5440e00cd7c70fe4afee26f947e858cd
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ed\03e910ecb7836690c1a87223cfb643f7a7d15c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ed\0563126d6b8354e1b1167c1fde82ed1060216d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ee\d0f38a86613f294e57df004bd9061e284d44b4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ef\874bf80a3f5544bad13c7b635f3e5b30c6cf7c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ef\f49d59a60460b7c66228ad30cab6ec8709e58c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f0\9a3788645e16283c732e8939f3d7abc522ab2e
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f0\b328d5b2de9b6ede6014828d6b5ef59ca1759a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f0\eda593fee95004688293c940ba5809b0982aec
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f3\f43feb1f0bfd0018d2a04381357f604ada302b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f4\701c46fe5f8eaec780baed771bf83c9c69804a
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f7\9c1711cc6e265bb1c3dbf37bba25b00bdec292
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\f9\94e8e8d0f85c0b1419065bf9116a07b49b157c
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fc\46ffd1db4bcbc407fcb3c309f34cad8f49d96b
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fc\70e949dc21a70d678282bda498b0b642e03da4
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fd\1b37a1ae0e186ef5a987b9d53f1e50f7529199
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fd\20236b91c77269f9229e1abf7ffd55081c94fb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fd\45f737444155887314709ed617eeda10e6fea3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fd\ec3af5c9b60b9604cb8f17a16a84702c9c5f25
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fe\1ef620316fe33a12aa83ca211f0d384fa19231
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\fe\70fed19431cbdf5fec9daa0d8ba8263cdf31d9
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ff\4702b2b00e53dec078746688f809335e84200d
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\ff\a8ba1a84582940d4c18a2385483d89cbf083be
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\pack\pack-b188b0f95ca82259514d34f89447db34497c0859.idx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\pack\pack-b188b0f95ca82259514d34f89447db34497c0859.pack
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\objects\pack\pack-b188b0f95ca82259514d34f89447db34497c0859.rev
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs\heads
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs\remotes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs\tags
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs\heads\main
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs\remotes\origin
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs\remotes\origin\HEAD
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\.git\refs\remotes\origin\main
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\10_NLP_for_DL\1_NLP_for_DL.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\1_RNN_vs_ANN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\2_forward_propogation_with_time_in_RNN_training.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\3_backward_propogation_with_time_in_RNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\4_problems_with_RNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\5_Word_embedding.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\pdf_notes\1_Simple RNN.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\pdf_notes\2_backwardpropogation.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\11_Simple_RNN\pdf_notes\3_Problems With RNN.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN\.gitignore
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN\embedding.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN\main.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN\prediction.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN\requirements.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN\simpleRNN.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\12_Deep_learning_project_with_simple_RNN\simpleRNN_imdb.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN\1_LSTM_RNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN\2_input_gate_and_candidate_memory.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN\3_Training_process_in_LSTM_RNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN\4_Variants_of_LSTM_RNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN\5_GRU_RNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\13_LSTM_and_GRU_RNN\pdf_notes\1_LSTM_and_GRU_RNN.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\experiments.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\GRU_model.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\hamlet.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\LSTM_model.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\prediction.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\requirements.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Hemanth\Tokenizer.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik\app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik\experiemnts.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik\hamlet.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik\next_word_lstm.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik\next_word_lstm_model_with_early_stopping.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik\requirements.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\14_Deep_learning_project_with_LSTM_and_GRU\Krishnaik\tokenizer.pickle
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\15_Bidirectional_RNN\1_Bidirectional_RNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\15_Bidirectional_RNN\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\15_Bidirectional_RNN\pdf_notes\Bidirection_RNN.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\16_Encoder_Decoder_or_SequenceTOSequence_architecture\1_Encoder_Decoder.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\16_Encoder_Decoder_or_SequenceTOSequence_architecture\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\16_Encoder_Decoder_or_SequenceTOSequence_architecture\pdf_notes\EncoderDecoderSeq2SEq.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\17_Attention_mechanism_Seq2Seq\1_Attention_Mechanism.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\17_Attention_mechanism_Seq2Seq\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\17_Attention_mechanism_Seq2Seq\pdf_notes\Attention+Mechanism.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\10_Decoder_Final_steps_Linear_and_softmax.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\1_what_and_why_to_use_transformers.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\2_Transformer_architecture.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\3_self_attention_layer.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\4_multihead_attention.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\5_Positional_encoding.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\6_Normalization_in_transformers.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\7_Complete_Encoder_transformer_architecture.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\8_Decoder_transformer_masked_multi_head_attention.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\9_Encoder_Decoder_multi_head_attention.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\18_Transformers\pdf_notes\transformers.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\1-Python Basics
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\11-Working With Databases
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\14-Streamlit
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\15-Memory Management
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\16-Multithreading and Multiprocessing
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\2-Control Flow
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\3-Data Structures
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\4-Functions
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\6-File Handling
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\7-Exception Handling
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\9-Advance Python Concepts
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\LICENSE
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\1-Python Basics\1.0-basic.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\1-Python Basics\1.1-Variables.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\1-Python Basics\1.2-Datatypes.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\1-Python Basics\1.3-operators.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\1-Python Basics\test.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\10.1-numpy.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\10.2-pandas.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\10.3-datamanipulation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\10.4-readdata.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\10.5-matplotlib.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\10.6-seaborn.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\data.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\data.xlsx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\df_excel
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\sales1_data.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\sales_data.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\sample_data.xlsx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\10-Data Analysis With Python\wine.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\11-Working With Databases\11.1-sqlite.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\11-Working With Databases\example.db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\11-Working With Databases\sales_data.db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\12.1-logging.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\12.2-multiplelogger.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\app.log
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\app1.log
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\logs
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\logs\app.log
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\logs\logger.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\logs\test.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\logs\__pycache__
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\12-Logging In Python\logs\__pycache__\logger.cpython-312.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\1_app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\2_main.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\3_getpost.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\4_jinja.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\5_api.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\Flask_notes.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\sample.json
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\templates
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\templates\about.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\templates\form.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\templates\getresult.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\templates\index.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\templates\result.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\13-Flask\flask\templates\result1.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\14-Streamlit\1_app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\14-Streamlit\2_widgets.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\14-Streamlit\3_classification.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\14-Streamlit\sampledata.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\14-Streamlit\streamlit.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\15-Memory Management\memory_manage.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\16-Multithreading and Multiprocessing\advance_multi_processing.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\16-Multithreading and Multiprocessing\advance_multi_threading.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\16-Multithreading and Multiprocessing\factorial_multi_processing.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\16-Multithreading and Multiprocessing\multi_processing.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\16-Multithreading and Multiprocessing\multi_threading.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\16-Multithreading and Multiprocessing\webscrapping_multi_threading.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\2-Control Flow\Conditionalstatements.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\2-Control Flow\Loops.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\3-Data Structures\3.1-Lists.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\3-Data Structures\3.1.1-ListExamples.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\3-Data Structures\3.2-Tuples.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\3-Data Structures\3.3-Sets.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\3-Data Structures\3.4-Dictionaries.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\4-Functions\4.1-functions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\4-Functions\4.2-examplesfunctions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\4-Functions\4.3-Lambda.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\4-Functions\4.4-Mapsfunction.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\4-Functions\4.5-filterfunction.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\4-Functions\sample.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\5.1-import.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\5.2-Standardlibrary.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\destination.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\example.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\source.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\test.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\maths.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\subpackages
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\__init__.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\__pycache__
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\subpackages\mult.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\subpackages\__init__.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\subpackages\__pycache__
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\subpackages\__pycache__\mult.cpython-312.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\subpackages\__pycache__\__init__.cpython-312.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\__pycache__\maths.cpython-312.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\5-Modules\package\__pycache__\__init__.cpython-312.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\6-File Handling\6.1-fileoperation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\6-File Handling\6.2-filepath.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\6-File Handling\destination.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\6-File Handling\example.bin
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\6-File Handling\example.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\7-Exception Handling\7.1-exception.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\7-Exception Handling\example1.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects\8.1-oops.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects\8.2-inheritance.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects\8.3-Polymorphism.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects\8.4-Encapsulation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects\8.5-Abstraction.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects\8.6-magicmethods.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\8-Class And Objects\8.7-OperatorOverloading.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\9-Advance Python Concepts\9.1-Iterators.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\9-Advance Python Concepts\9.2-Generators.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\9-Advance Python Concepts\9.3-Decorators.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Krishnaik\9-Advance Python Concepts\large_file.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\10_1_packagesquestion.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\10_2_packagessolution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\10_packagesquestion.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_1_filehandlingsolution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_activity.log
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_data.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_data.json
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_destination.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_filehandlingquestions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_file_usecase.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_large_file.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_large_file.txt_part1
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_large_file.txt_part2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_large_file.txt_part3
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_log.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_merged.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_test_file.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\11_test_file_write.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\12_exceptionhandlingquestions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\12_exceptionhandlingsolution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\13_classesobjectquestions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\13_classesobjectssolution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\14_inheritancesolutions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\14_inhertiancequestions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\15_oopsquestion.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\15_oopssolution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\16_itergendecorsolutions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\16_itergenerdecorquestions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\17_numpyassignments.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\17_numpysolutions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\17_pandasasssignments.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\17_pandassolution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\18_Module_SQLite3_Assignments_Questions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\18_Module_SQLite3_Assignments_Solution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\19_Module_Logging_Assignments_Questions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\19_Module_Logging_Assignments_Solutions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\1_assignment.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\20_streamlit_practice.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\2_assignment.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\3_list_Assignment.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\3_list_assignment_solution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\4_1_tuple_assignment_solution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\4_tuple_assignment.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\5_1_set_assignments_solution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\5_sets_assignment.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\6_1_dictionaries_assignment_solution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\6_dictionaries_assignment.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\7_1_advancefunctionsolution.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\7_advancefunctions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\8_functions_practice.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\9_inbuilt_data_structures_practice_questions.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\app.log
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test.db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_bck.db
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_files
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_files\test_1.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\factorial.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\gcd.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\sub_module
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\__init__.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\__pycache__
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\sub_module\addition.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\sub_module\__init__.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\sub_module\__pycache__
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\sub_module\__pycache__\addition.cpython-310.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\sub_module\__pycache__\__init__.cpython-310.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\__pycache__\factorial.cpython-310.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\__pycache__\gcd.cpython-310.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\__pycache__\math.cpython-310.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\1_Python\Python Hands-on\test_module\__pycache__\__init__.cpython-310.pyc
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Statistics Notes.url
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\10_Chi-square test.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\11_ANOVA test.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\12_where  inferential statistics are used.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\1_Hypothesis Testing And Mechanism.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\2_P value.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\3_Z test hypothesis testing.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\4_Student t distribution.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\5_t test hypothesis testing.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\6_Z test vs T test.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\7_Type1 and Type2 errors.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\8_Bayes theorem.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\9_Confidence interval and Margin of error.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\1-Hypothesis Testing And Mechanism.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\2-P value.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\3-Z test.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\4-student t distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\5-T stats T-test.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\6-Z test vs T-test.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\7-type1 and type 2 error.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\inferential statistics\pdf_notes\8-Bayes theorem.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\1_binomial distribution.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\2_Poisson distribution.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\3_Guassian distribution.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\4_Uniform distribution.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\5_Log Normal distribution.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\6_power law distribution.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\7_Central Limit Theorem.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\8_Estimates.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\1-finalpdf,pmf,cdf.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\10-Pareto Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\11-Central Limit Theorem.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\12-Estimates.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\2-Bernoulli Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\3-Binomial Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\4-Poisson Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\5 Normal Guassian Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\6-Standard Normal Distribution And Z score.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\7-Uniform Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\8-Log Normal Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes\statistics\pdf_notes\9-Power Law Distribution.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\10_Percentiles and quartiles.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\11_ 5 number summary.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\12.1_Correlation and coefficient.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\12.2_Correlation and coefficient.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\12.3_Correlation and coefficient.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\12.4_Correlation and coefficient.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\1_Types of statistics.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\2_PopulationVSsample.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\3_Measure of central tendency.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\4_Measure of dispersion.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\5_Sample variance.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\6_Standard deviation.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\7_Variable.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\8_Random variables.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\2_Statistics\Notes by Krish Naik\9_Histogram.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\10_EDA_and_FE_Google_playstore.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\1_Handling missing values.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\2_Handling imbalance dataset.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\3_SMOTE.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\4_Handling Outliers.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\5_Nominal or OHE.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\6_Label and Ordinal.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\7_Target Guided Ordinal Encoding.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\8_Wine_quality_EDA.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\9_EDA_and_FE_flight_price.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\Wine_quality
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\Wine_quality\winequality-red.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\Wine_quality\winequality-white.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\3_Feature_engineering\Wine_quality\winequality.names
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\10_XGboost
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\11_PCA
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\12_K_means_clustering
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\13_Hierarical_clustering
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\14_DBSCAN_clustering
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\15_Anomaly Detection ML Algorithm
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\2_logistic_regression
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\3_Support_Vector_Machines
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\4_Naive_Bayes_Theorem
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\5_K_Nearesr_Neighbour
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\6_Decision_tree
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\7_Random_forest
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\8_Adaboost
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\9_gradient boost
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\cardekho_imputated.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\Travel.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\10_XGboost\1_XGboost_classification_implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\10_XGboost\2_XGboost Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\11_PCA\Principal component Analysis (PCA) implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\12_K_means_clustering\K Means Clustering Algorithms implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\13_Hierarical_clustering\Hierarichal Clustering Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\14_DBSCAN_clustering\DBSCAN Clustering Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\15_Anomaly Detection ML Algorithm\1_Isolation Anomaly Detection.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\15_Anomaly Detection ML Algorithm\2_DBSCAN Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\15_Anomaly Detection ML Algorithm\3_Local Outlier Factor.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\15_Anomaly Detection ML Algorithm\healthcare.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\1_Practical Simple Linear Regression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\2_Multiple Linear Regression- Econimics Dataset.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\3_Polynomial Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\4_Ridge, Lasso Regression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\5_Model_training.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\Algerian_forest_fires_dataset_cleaned.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\Algerian_forest_fires_dataset_UPDATE.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\convert heic to png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\economic_index.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\height-weight.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\application.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\dataset
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\models
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\notebooks
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\templates
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\dataset\Algerian_forest_fires_dataset_cleaned.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\dataset\Algerian_forest_fires_dataset_UPDATE.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\models\ridge.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\models\scaler.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\notebooks\4_Ridge, Lasso Regression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\notebooks\5_Model_training.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\templates\home.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\1_linear_regression\forestfire-main\templates\index.html
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\2_logistic_regression\1_logistic_regression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\3_Support_Vector_Machines\1_Basic_SVC_Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\3_Support_Vector_Machines\2_support_Vector_Regression_Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\3_Support_Vector_Machines\3_SVM_Kernels_Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\4_Naive_Bayes_Theorem\Naive_bayes_implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\5_K_Nearesr_Neighbour\1_KNN_Classifier.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\5_K_Nearesr_Neighbour\2_KNN_Regressor.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\6_Decision_tree\1_Decision Tree Classifier Practical Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\6_Decision_tree\2_Diabetes prediction using decision tree regressor.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\7_Random_forest\1_Random_forest_classification_implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\7_Random_forest\2_Random Forest Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\7_Random_forest\auc.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\8_Adaboost\1_Adaboost_classification_implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\8_Adaboost\2_Adaboost Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\9_gradient boost\1_Gradient_classification_implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Hands on\9_gradient boost\2_Gradient Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\10_XGboost
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\11_PCA
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\12_K_means_clustering
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\13_Hierarical_clustering
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\14_DBSCAN_clustering
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\15_Anomaly Detection ML Algorithm
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\2_logistic_regression
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\3_SVM
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\4_Naive_Baye's
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\5_KNN
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\6_Decision_tree
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\8_Adaboost
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\10_XGboost\Xgboosst Regressor
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\10_XGboost\XGboost Classifier
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\10_XGboost\Xgboosst Regressor\Xgboost Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\10_XGboost\XGboost Classifier\auc.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\10_XGboost\XGboost Classifier\Travel.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\10_XGboost\XGboost Classifier\XgboostBoost Classification Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\11_PCA\Principal Component Analysis (PCA) Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\12_K_means_clustering\K Means Clustering Algorithms implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\13_Hierarical_clustering\Hierarichal Clustering Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\14_DBSCAN_clustering\DBSCAN Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\15_Anomaly Detection ML Algorithm\DBSCAN Implementation (1).ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\15_Anomaly Detection ML Algorithm\healthcare.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\15_Anomaly Detection ML Algorithm\Isolation Anamoly Detection.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\Algerian_forest_fires_cleaned_dataset.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\Algerian_forest_fires_dataset_UPDATE.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\economic_index.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\height-weight.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\Model Training.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\Multiple Linear Regression- Economics Dataset.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\Polynomial Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\Practical Simple Linear Regression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\1_linear regression\Ridge, Lasso Regression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\2_logistic_regression\Logistic Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\3_SVM\Basic SVC Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\3_SVM\Support Vector Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\3_SVM\SVM Kernels Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\4_Naive_Baye's\3.0-Naive Bayes Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\5_KNN\3.0-KNNClassifier.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\5_KNN\3.0-KNNRegressor.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\6_Decision_tree\Decision Tree Classifier Practical Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\6_Decision_tree\Diabetes Prediction Using Decision Tree Regressor.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Classification
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Regression
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Classification\auc.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Classification\Random Forest Classification Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Classification\Travel.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Regression\data
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Regression\Random Forest Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\7_Random_forest\Regression\data\cardekho_imputated.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\8_Adaboost\Adaboost Classification Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\8_Adaboost\Adaboost Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\8_Adaboost\data
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\8_Adaboost\Travel.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\8_Adaboost\data\cardekho_imputated.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Classification
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Regression
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Classification\auc.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Classification\GradientBoost Classification Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Classification\Travel.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Regression\data
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Regression\Gradientboost Regression Implementation.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\Krish Naik Hands on\9_gradient boost\Regression\data\cardekho_imputated.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\unsupervised ML
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\1_AI vs ML vs DL vs DS.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\2_Types of ML techniques.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\3_Equation of line, 3D and hyperplane.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\4_Distance of a point from a plane.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\5_Instance vs model based learning.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\supervised Machine Learning.url
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\1_Simple Linear Regression intro.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\2_Understanding Simple Linear Regression equations.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\3_Cost function and gradient descent.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\4_Convergence Algorithm.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\5_Multi Linear Regression.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\6_Performance metrics.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\7_Overfitting Underfitting.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\8_Linear Regression with OLS.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\9_Polinomial Regression.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes\1_Simple Linear Regression.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes\2_Multiple Linear Regression.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes\3_Performance Metrics.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes\4_MSE,RMSE,MAE.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes\5_Overfitting And Underfitting.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes\6_Linear regression OLS.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\6_Linear Regression\pdf_notes\7_Polynomial regression.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\pdf_notes\1-AI Vs ML Vs DL Vs DS.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\pdf_notes\2_Types of ML technqiues.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\pdf_notes\3_Equation Of a straight Line,Hyperplane.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\supervised ML\pdf_notes\4_instance based vs model based learning.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\4_Machine Learning\notes\unsupervised ML\hi.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers\Docker.one
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers\Hello World
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers\Open Notebook.onetoc2
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers\Hello World\app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers\Hello World\Dockerfile
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers\Hello World\requirements.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\5_Dockers\Notes\Dockers\Hello World\test.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\6_GIT\git-cheat-sheet-education.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\6_GIT\git.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\.gitignore
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\10_TF-IDF
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\11_word_embeddings
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\12_Word2Vec
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\13_projects
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\1_Tokenization
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\2_Stemming
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\3_Lemmatization
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\4_StopWords
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\5_parts_of_speech
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\6_Named_entity_recognition
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\7_Overview_tillnow
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\8_One_hot_encoding
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\9_Bag_of_words
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\datasets
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\10_TF-IDF\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\10_TF-IDF\TF-IDF.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\10_TF-IDF\TF-IDF.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\11_word_embeddings\word embeddings.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\12_Word2Vec\1_Word2Vec_cbow.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\12_Word2Vec\2_Word2Vec_skipgram.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\12_Word2Vec\3_Word2Vec_avgWord2Vec.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\12_Word2Vec\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\12_Word2Vec\word2vec.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\13_projects\1_Spam Ham Classification Project Using BOW And TFIDF And ML.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\13_projects\2_Spam Ham Projects Using Word2vec,AvgWord2vec.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\13_projects\3_Kindle Review Sentiment Analyis.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\1_Tokenization\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\1_Tokenization\Tokenization.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\2_Stemming\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\2_Stemming\stemming.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\3_Lemmatization\Lemmatization.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\3_Lemmatization\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\4_StopWords\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\4_StopWords\stopwords.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\5_parts_of_speech\partsofspeech.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\5_parts_of_speech\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\6_Named_entity_recognition\NamedEntityRecognition.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\6_Named_entity_recognition\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\7_Overview_tillnow\overview_of_what_we_Learn_till_now.png
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\8_One_hot_encoding\Onehotencoding.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\9_Bag_of_words\Bag Of Words.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\9_Bag_of_words\Bag_of_words.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\9_Bag_of_words\N-grams
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\9_Bag_of_words\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\9_Bag_of_words\N-grams\N-grams.docx
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\9_Bag_of_words\N-grams\README.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\datasets\all_kindle_review.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\7_NLP_for_ML\datasets\smsspamcollection.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\10_ReLu_activation_function.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\11_Leaky_Relu_&_parametric_Relu.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\12_ELU_activation_function.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\13_softmax_activation_function.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\14_which_activation_function_to_apply_when.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\15_Loss_Function_vs_Cost_Function.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\16_Regression_Cost_Function.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\17_Classification_Loss_Functions.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\18_Gradient_descent_optimizers.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\19_SGD_Optimizer.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\1_Deep_Learning_intro.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\20_mini_batch_with_SGD_optimizer.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\21_SGD_with_Momentum.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\22_ADAGRAD_Optimizer.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\23_Adadelta and RMSprop.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\24_Adam_Optimizer.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\25_Exploding_Gradient_problem.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\26_weight_initialisation_techniques.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\27_dropout_layers.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\28_Human_brain_vs_CNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\29_RGB_&_Gray_images_understanding.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\2_Why_deep_learning_is_getting_popular.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\30_Convolution_operation_in_CNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\31_Padding_in_CNN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\32_CNN_vs_ANN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\33_Max_Min_Avg_pooling.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\34_Flattening_&_fullyconnected_layers.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\3_perceptron.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\4_MLP_or_ANN.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\5_backward_propogation_&_weight_updation.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\6_Chain_rule_of_derivatives.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\7_Vanishing_gradient_problem_&_sigmoid.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\8_sigmoid_activation_function.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\9_Tanh_activation_function.md
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes\1_Deep learnng.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes\2_Deep LEarning.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes\3_Activation functions.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes\4_Loss Functions.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes\5_Optimizers.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes\6_Weight initialization Techniques.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\8_Deep_Learning\pdf_notes\7_CNN.pdf
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\.gitignore
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\Churn_Modelling.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\experiments.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\hyperparametertuningann.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\LabelEncoder_gender.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\model.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\OHE_geography.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\prediction.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\requirements.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\classification_project\scaler.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project\.gitignore
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project\Churn_Modelling.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project\LabelEncoder_gender.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project\model.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project\OHE_geography.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project\salary_regression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Hemanth_project\Regression_project\scaler.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\app.py
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\Churn_Modelling.csv
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\experiments.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\hyperparametertuningann.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\label_encoder_gender.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\model.h5
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\onehot_encoder_geo.pkl
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\prediction.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\requirements.txt
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\salaryregression.ipynb
+C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\scaler.pkl
