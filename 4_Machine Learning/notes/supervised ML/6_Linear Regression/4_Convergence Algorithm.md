@@ -74,9 +74,31 @@
 *   This `x_i` comes from the derivative of `h_θ(x_i) - y_i` with respect to `θ1`, which is `x_i` (since `θ0` is constant and `θ1 * x_i` derivative is `x_i`).
 
 ## Final Convergence Equations for Simple Linear Regression
+In vectorized form:  
+Let
+
+**xᵢ** =  
+[1  
+xᵢ₁  
+xᵢ₂  
+xᵢ₃  
+xᵢ₄],  
+
+**θ** =  
+[θ₀  
+θ₁  
+θ₂  
+θ₃  
+θ₄]
+
+Hypothesis:
+
+h_θ(**xᵢ**) = θᵀ **xᵢ**
+
 *   **Repeat until convergence:**
     *   **θ0 Update:**
         *   `θ0 (new) = θ0 (old) - α * (1 / m) * Σ [h_θ(x_i) - y_i]`.
+        *   For the intercept `(θ0)​, just use 𝑥𝑖0=1`
     *   **θ1 Update:**
         *   `θ1 (new) = θ1 (old) - α * (1 / m) * Σ [h_θ(x_i) - y_i] * x_i`.
 *   These equations are repeatedly applied until the model finds the **best fit line** or **converges to the global minima** of the cost function.
