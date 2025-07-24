@@ -1217,3 +1217,7 @@ C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Pro
 C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\requirements.txt
 C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\salaryregression.ipynb
 C:\Users\ZE634LD\OneDrive - EY\Desktop\Learning Stuff\Data Science\Krishnaik\Projects\Krishnaik_ML_and_DL\9_Deep_Learning_Project_using_ANN\Krishnaik_project\scaler.pkl
+
+
+
+-- dir /s /b > file_list.txt
