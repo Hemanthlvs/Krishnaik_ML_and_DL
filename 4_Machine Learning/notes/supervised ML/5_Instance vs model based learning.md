@@ -2,7 +2,7 @@
 
 The way a machine learning model learns about data can be divided into two main approaches: **instance-based techniques** and **model-based techniques**. These approaches differ based on the model's "learning patterns" – how it understands the data.
 
-#### 1. Instance-Based Learning (Memorizing Data)
+#### 1. Instance-Based Learning (Memorizing Data -- Lazy Learning)
 
 *   **Dependency on Training Data:** In instance-based learning, the model is **completely dependent on its training data** for every prediction. It does not try to understand underlying patterns.
 *   **Prediction Method:** When a new data point comes in, the model **does not understand patterns** within the data. Instead, it looks at the **surrounding data** points around the new query point. If most of the surrounding points belong to a certain category (e.g., 'pass' or 'fail'), the new point is predicted to be that category.
