@@ -144,3 +144,14 @@ The choice depends on the specific problem and the importance of handling outlie
 | **Cost Function**      | You have 1000 houses. The cost function is the **average of all individual squared errors** across these houses. Minimizing this cost improves your overall model predictions.                                                                                          | Mean Squared Error (MSE), Mean Absolute Error (MAE)       |
 | **Error Metric**       | After training, you test your model on 200 new houses and calculate the **Mean Absolute Error (MAE)**, which might be \$20,000. This tells you on average how far off your predictions are.                                                                             | Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) |
 | **Performance Metric** | You want to know how well your model explains the variance in house prices, so you compute **R-squared** of 0.85, meaning your model explains 85% of the variation in prices. This helps you compare different models.                                                  | R-squared, Adjusted R-squared                             |
+
+
+### Difference Between Loss Function, Cost Function, and Error Metrics
+
+- **Loss Function** is used **during training** to calculate the error **for a single data point**. It helps the model understand how wrong a single prediction is, and this error is used to update model weights (via backpropagation/gradient descent).
+
+- **Cost Function** is also used **during training**, but it is the **average (or sum) of all losses across the dataset**. It represents the overall error the model is making and is what the model actually tries to minimize.
+
+- **Error Metrics** are used **after training**, typically on test or validation data, to **evaluate model performance**. They tell us **how different the predictions are from the actual values**, usually by summarizing average error.
+
+> Even though loss functions, cost functions, and error metrics often use the **same mathematical formulas**, they are used **at different stages** and with **different purposes**.
