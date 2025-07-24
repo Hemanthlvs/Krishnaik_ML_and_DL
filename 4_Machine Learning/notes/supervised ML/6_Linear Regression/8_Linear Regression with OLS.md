@@ -61,3 +61,13 @@
 *	You have millions of features (inverting a large matrix is very slow or impossible).
 *	You're using logistic regression, neural networks, or non-linear models — OLS doesn't work there.
 *	You want to train on batches (e.g. in deep learning).
+
+## Final Takeaway
+### Use OLS when:
+*	Dataset is small to medium size
+*	You want a quick and exact solution to linear regression
+
+### Use Gradient Descent when:
+*	You have large-scale data
+*	You are training complex or regularized models
+*	You're working with non-linear or deep learning models
