@@ -1,15 +1,4 @@
 ### Multiple Linear Regression
-
-#### Simple Linear Regression
-*   **Purpose**: To predict an output feature based on **one input or independent feature**.
-    *   *Example*: Predicting height based on weight.
-*   **Equation (Best Fit Line)**: `h(x) = θ0 + θ1 * x`.
-    *   `x` represents the **single input feature**.
-    *   `θ0` is the **intercept**.
-    *   `θ1` is the **slope** (or coefficient) for the input feature.
-*   **Goal**: To find the "best fit line" by changing the values of `θ0` and `θ1`.
-
-#### Multiple Linear Regression
 *   **Purpose**: To predict an output feature when you have **multiple input features**.
     *   This is the **basic difference**: more than one input feature.
 *   **Example (House Pricing Data Set)**:
