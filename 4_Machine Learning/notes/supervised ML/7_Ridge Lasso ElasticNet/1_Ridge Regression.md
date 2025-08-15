@@ -5,6 +5,11 @@
 *   **Purpose**: **Ridge Regression** is used specifically to **reduce overfitting** in linear regression models.
 *   **Alternative Name**: It is also known as **L2 Regularization**.
 *   **Role**: It acts as an algorithm to **hyperparameter tune** linear regression, preventing it from perfectly fitting the training data.
+*   **When to Use**:
+    *   When an **overfitting condition** is observed.
+    *   Overfitting is characterized by **very high training data accuracy** and **very low test data accuracy**.
+*   **Relationship to Linear Regression**: It is a method for **hyperparameter tuning linear regression**.
+
 
 ## Cost Function of Ridge Regression (L2 Regularization)
 
