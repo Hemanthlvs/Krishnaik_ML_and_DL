@@ -25,3 +25,20 @@
 *   This setup helps to **categorize or classify points very clearly**.
 *   When a new test data point comes, its position relative to the best fit line/plane (and within the margin) helps assign it to the correct category.
 *   SVM is also used in **multi-class classification**.
+
+# SVM: Soft Margin vs Hard Margin
+
+## Understanding Margins: Soft vs. Hard
+
+### Hard Margin
+
+*   **What it is**: This scenario means you can **clearly separate all your data points** using the best fit line and the marginal plane.
+*   **Errors**: In a hard margin scenario, there are **no errors**. All points are perfectly distinct and separated.
+*   **When it's seen**: This is an **ideal case** where your data is perfectly separable, like in some textbook examples.
+
+### Soft Margin
+
+*   **What it is**: This situation comes up when your data points are **not clearly separable**.
+*   **Real-world scenario**: This is very common in the **real world** because there's often **a lot of overlapping** between different classes of data points.
+*   **Errors**: In soft margin, you will **definitely get some amount of errors**. It's simply not possible to achieve a perfect separation with a straight line or plane when there's overlap.
+*   **Why it's needed**: Since real-world data is messy and has overlaps, soft margin allows for these small errors. This makes the SVM model more **practical and robust** for real-life datasets where perfect separation isn't feasible.
