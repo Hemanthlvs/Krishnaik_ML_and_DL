@@ -38,26 +38,25 @@ The two marginal planes:
 - Top margin: `f(X) + epsilon = X + 1 + 0.5 = X + 1.5`
 - Bottom margin: `f(X) - epsilon = X + 1 - 0.5 = X + 0.5`
 
----
-
 ## 4. Check Which Points Are Inside the Margin
 
 We check whether each point satisfies:  
 `|y_i - f(X_i)| <= epsilon`
 
-| Point | X | y | f(X) = X + 1 | |y - f(X)| | Inside Margin? | eta_i |
-|-------|---|---|---------------|------------|----------------|--------|
-| 1     | 1 | 2   | 2             | 0          | ✅ Yes         | 0      |
-| 2     | 2 | 2.8 | 3             | 0.2        | ✅ Yes         | 0      |
-| 3     | 3 | 4.5 | 4             | 0.5        | ✅ Yes         | 0      |
-| 4     | 4 | 4.2 | 5             | 0.8        | ❌ No          | 0.3    |
-| 5     | 5 | 5.1 | 6             | 0.9        | ❌ No          | 0.4    |
+Below is the table:
 
-**eta_i** is calculated as:  
+| Point | X | y   | f(X) = X + 1 | \|y - f(X)\| | Inside Margin? | eta_i |
+|-------|---|-----|---------------|--------------|----------------|--------|
+| 1     | 1 | 2.0 | 2             | 0.0          | ✅ Yes         | 0      |
+| 2     | 2 | 2.8 | 3             | 0.2          | ✅ Yes         | 0      |
+| 3     | 3 | 4.5 | 4             | 0.5          | ✅ Yes         | 0      |
+| 4     | 4 | 4.2 | 5             | 0.8          | ❌ No          | 0.3    |
+| 5     | 5 | 5.1 | 6             | 0.9          | ❌ No          | 0.4    |
+
+`eta_i` is calculated as:  
 `eta_i = |y_i - f(X_i)| - epsilon`  
-For points outside the margin.
+Only for points outside the margin.
 
----
 
 ## 5. Cost Function for SVR
 
